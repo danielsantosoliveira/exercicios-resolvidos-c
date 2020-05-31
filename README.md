@@ -1,2 +1,2 @@
-# exercicios-resolvidos-c
- Exercícios Resolvidos na Liguagem C
+# Exercícios resolvidos em C
+ Repositório com exercícios resolvidos na linguagem C.
